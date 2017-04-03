@@ -4,10 +4,6 @@
 
 > Use javascript to display alphabet in array.
 
-1. Applicant first name
-1. Applicant middle initial
-
-
 ### Final Result:
 > All requirements are met.  
 
